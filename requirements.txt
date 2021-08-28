@@ -18,4 +18,3 @@ tqdm==4.62.2
 traitlets==5.0.5
 transformers==4.9.2
 urllib3==1.26.2
--f https://download.pytorch.org/whl/torch_stable.html
